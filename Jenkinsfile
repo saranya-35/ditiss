@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         GIT_REPOSITORY_URL = 'https://github.com/saranya-35/ditiss.git'
-        DOCKER_IMAGE_NAME = 'newdelthis/docker_jenkins_demo'
+        DOCKER_IMAGE_NAME = 'kavora43/docker_jenkins_demo'
         IMAGE_TAG = '1.0'
     }
 
